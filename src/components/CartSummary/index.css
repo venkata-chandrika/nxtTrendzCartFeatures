@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.cart-summary-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: stretch;
+}
+.summary {
+  text-align: start;
+}
